@@ -1,4 +1,6 @@
-# Job Portal
+# Job Portal - THE FILES ARE TOO BIG PLEASE CHECK THIS LINK FOR SEE THE FULL PROJECT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+https://s6.dosya.tc/server19/mziq0t/job-portal-main.rar.html
+
 Job Portal is a basic recruitment online website developed using the following technologies:
 1. ASP.NET Core MVC
 2. Entity Framework Core
