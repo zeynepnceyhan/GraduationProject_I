@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LuXoH+EKvAuSdtcX9CKtjilEbMzMQ99PhtKuD/yxP42wDZ2JnjI8eeez6zCOdu9FKLzkwTf5TR8jVLRljjPhdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeynep\\Downloads\\job-portal-main\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
